@@ -1,4 +1,4 @@
-🔭 I'm a Coding Lover.
+🔭 I'm a RLer + NLPer/2 + MLSyser/2.
 
 ![Jian Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hijkzzz&show_icons=true)
 
